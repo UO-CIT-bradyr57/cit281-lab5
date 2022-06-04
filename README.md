@@ -14,7 +14,10 @@ I learned how to use Postman, and the different features that it has. I created 
 
 ### Sample Code from Project
 
-Below is some sample code from the project, that highlights the main points and functions associated with it. 
+Below is some sample code from the project that highlights the main points and functions associated with it. 
 
+![AllStudents](https://user-images.githubusercontent.com/105069118/171968483-ee8d4e0b-a2a4-4a29-b84e-45ddc96bed98.png)
+
+![SingleStudent](https://user-images.githubusercontent.com/105069118/171968490-b5ba52a3-afd6-44ee-982e-fc26eca60754.png)
 
 ### [Back to the Home Page](http://uo-cit-bradyr57.github.io/bradyr57.github.io/)
